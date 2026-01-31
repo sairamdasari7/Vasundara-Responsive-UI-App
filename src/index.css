@@ -1,0 +1,24 @@
+body {
+  font-family: Inter, system-ui, sans-serif;
+  background: #f0f2f5;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+}
+
+button {
+  margin: 4px;
+  padding: 6px 12px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  background: #5b6cff;
+  color: white;
+}
+
+input, select {
+  padding: 6px;
+  margin: 4px;
+}
